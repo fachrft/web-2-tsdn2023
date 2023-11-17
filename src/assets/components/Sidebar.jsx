@@ -1,6 +1,6 @@
 import profile from "../logo/Profile.png";
 import chart from "../logo/Chart.png";
-import menu from "../logo/Menu.png";
+import menu from "../logo/MENU.png";
 import logoff from "../logo/logoff.png";
 import { Link } from "react-router-dom";
 
