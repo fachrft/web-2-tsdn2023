@@ -3,7 +3,7 @@ import Bar from "../images/bar.png";
 
 const DashboardTiga = () => {
     return (
-        <div className="mt-20 ml-[250px] pl-10">
+        <div className="mt-20 pl-[300px]">
             <div className="w-[80vw] text-center mb-10">
                 <h1 className="text-3xl font-semibold">Kecelakaan Per Provinsi Pada Tahun 2020</h1>
             </div>

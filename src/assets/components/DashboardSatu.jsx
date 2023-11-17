@@ -4,7 +4,7 @@ import Kecelakaan5Tahun from '../images/5tahun.png'
 
 const DashboardSatu = () => {
     return (
-        <div className="ml-[250px] pl-10 w-[100vw]" id="dashboard">
+        <div className="pl-[300px] w-[100vw]" id="dashboard">
             <div className="pl- border-b-4 pb-10">
                 <h1 className="text-5xl font-semibold">Dashboard</h1>
             </div>

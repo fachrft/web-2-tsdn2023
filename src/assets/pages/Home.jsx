@@ -16,7 +16,7 @@ const Home = () => {
             <div className="w-[100vw]">
                 <Navbar />
                 <Hero />
-                <div className="overflow-x-hidden w-[100vw]">
+                <div className="overflow-x-hidden">
                     <DashboardSatu />
                     <DashboardDua />
                     <DashboardTiga />

@@ -2,7 +2,7 @@ import Usia from '../images/Usia Kecelakaan 1.png'
 
 const DashboardLima = () => {
     return (
-        <div className="mt-20 ml-[250px] h-[110vh] pl-10 flex flex-col items-center">
+        <div className="mt-20 h-[110vh] pl-[300px] flex flex-col items-center">
             <div className='text-center mb-10'>
                 <h1 className='text-2xl font-semibold'>Range Usia Kecelakaan</h1>
             </div>

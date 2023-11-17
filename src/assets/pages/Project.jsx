@@ -15,14 +15,14 @@ const Project = () => {
             </div>
             <div className="w-[100vw]">
                 <Navbar />
-                <div className="relative h-[130vh] w-[100vw] ml-[200px] pt-40">
+                <div className="relative h-[130vh] w-[100vw] pl-[200px] pt-40">
                     <div className="w-[90vw] text-center">
                         <h1 className="text-3xl font-semibold">Prototype Project</h1>
                     </div>
                     <div className="flex justify-around w-[90vw]">
-                        <div className="relative">
+                        <div className="relative w-[69vh]">
                             <a href="https://www.youtube.com/watch?v=ItmEitPM_eM">
-                                <img src={Monitor} alt="" className="w-[69vh]" />
+                                <img src={Monitor} alt="" className="w-[69vh] relative"/>
                             </a>
                             <a href="">
                                 <img src={PelanggaranHelm} alt="" className="absolute top-[99.5px] left-12 -z-10 w-52" />

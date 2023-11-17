@@ -3,7 +3,7 @@ import Kendaraan from "../images/kendaraan.png";
 
 const DashboardEmpat = () => {
     return (
-        <div className="mt-20 ml-[250px] pl-10 flex">
+        <div className="mt-20 pl-[300px] flex">
             <div>
                 <div className="text-center mb-10">
                     <h1 className="text-2xl font-semibold">5 Penyabab Kecelakaan</h1>

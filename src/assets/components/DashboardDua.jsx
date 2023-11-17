@@ -3,7 +3,7 @@ import Bagus from "../images/baik.png";
 
 const DashboardDua = () => {
     return (
-        <div className="ml-[250px] pl-10 w-[100vw] flex">
+        <div className="pl-[300px] w-[100vw] flex">
             <div>
                 <h1 className="text-2xl font-semibold mb-5">5 Jalanan Terburuk Di Indonesia </h1>
                 <img src={Jelek} alt="" />
