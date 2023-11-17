@@ -20,9 +20,9 @@ const Project = () => {
                         <h1 className="text-3xl font-semibold">Prototype Project</h1>
                     </div>
                     <div className="flex justify-around w-[90vw]">
-                        <div className="relative w-[69vh]">
+                        <div className="relative w-[70vh]">
                             <a href="https://www.youtube.com/watch?v=ItmEitPM_eM">
-                                <img src={Monitor} alt="" className="w-[69vh] relative"/>
+                                <img src={Monitor} alt="" className="w-[69vh] absolute"/>
                             </a>
                             <a href="">
                                 <img src={PelanggaranHelm} alt="" className="absolute top-[99.5px] left-12 -z-10 w-52" />
