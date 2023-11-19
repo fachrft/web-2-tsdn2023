@@ -29,7 +29,7 @@ const Sidebar = () => {
                 </div>
                 <div className="flex gap-2 px-6">
                     <img src={chart} alt="" />
-                    <a href="#dashboard" className="text-text-sidebar">
+                    <a href="/" className="text-text-sidebar">
                         Dashboard
                     </a>
                 </div>
